@@ -16,3 +16,10 @@ ff02::2		ip6-allrouters
 192.168.0.103   w204
 
 rosrun mavros mavparam set SYSID_MYGCS 1
+
+VM name AMVju4r4
+username amv
+pass Ju4r4ju4r4ju4r4
+
+(new) AMV-vnet
+(new) default (10.0.0.0/24)
