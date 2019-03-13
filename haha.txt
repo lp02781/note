@@ -23,3 +23,5 @@ pass Ju4r4ju4r4ju4r4
 
 (new) AMV-vnet
 (new) default (10.0.0.0/24)
+
+sudo date --set "25 Sep 2013 15:00:00"
