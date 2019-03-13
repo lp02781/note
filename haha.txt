@@ -25,3 +25,4 @@ pass Ju4r4ju4r4ju4r4
 (new) default (10.0.0.0/24)
 
 sudo date --set "25 Sep 2013 15:00:00"
+https://discuss.ardupilot.org/t/pixhawk2-gps-module/17387/2
