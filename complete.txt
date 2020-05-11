@@ -1,9 +1,16 @@
+1550x750
+1850x250
+
 panel 1	: speed, throttle, rpm, engine load, suhu, humid
-panel 2	: angle_increment	time_increment	scan_time	range_min	range_max	range_size	countless	count	lidar_1	lidar_2	lidar_3	lidar_4	lidar_5	lidar_6	lidar_7	lidar_8	lidar_9	lidar_10	lidar_11	lidar_12	lidar_13	lidar_14	lidar_15	lidar_16	lidar_17	lidar_18	lidar_19	lidar_20	lidar_21	lidar_22	lidar_23	lidar_24
+panel 2	: angle_increment time_increment scan_time range_min range_max range_size countless count lidar_1 lidar_2	lidar_3	lidar_4	lidar_5	lidar_6	lidar_7	lidar_8	lidar_9	lidar_10	lidar_11	lidar_12	lidar_13	lidar_14	lidar_15	lidar_16	lidar_17	lidar_18	lidar_19	lidar_20	lidar_21	lidar_22	lidar_23	lidar_24
 panel 3 : latitude, longitude, compass, altitude
-panel 4 : accel_x	accel_y	accel_z	rot_x	rot_y	rot_z	pose_x	pose_y	pose_z	
+panel 4 : accel_x accel_y accel_z rot_x	rot_y rot_z pose_x pose_y pose_z	
 panel 5 : engine_status	battery_status	lidar_status camera_status battery_capacity
 panel 6 : Music
 
 sub panel : status, date, time, battery_cap
 				
+battery & engine di pisah jadi 
+Electrical Traction : motor toque, current, voltage, efficiency, temperature, load
+Engine Traction : engine load, rpm, thorttle, intake air temperature, intake pressure, dll
+Battery : voltage, discharge curremt. health, remaining time, remaining capacity.
