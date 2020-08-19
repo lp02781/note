@@ -26,3 +26,7 @@ pass Ju4r4ju4r4ju4r4
 
 sudo date --set "25 Sep 2013 15:00:00"
 https://discuss.ardupilot.org/t/pixhawk2-gps-module/17387/2
+
+export PATH=/usr/local/cuda-10.1/bin${PATH:+:${PATH}}
+export LD_LIBRARY_PATH=/usr/local/cuda-10.1/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+export PATH_TO_PB=~/tensorFlowObjectDetection/protoc-3.12.4-linux-x86_64/bin
