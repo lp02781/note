@@ -30,3 +30,5 @@ https://discuss.ardupilot.org/t/pixhawk2-gps-module/17387/2
 export PATH=/usr/local/cuda-10.1/bin${PATH:+:${PATH}}
 export LD_LIBRARY_PATH=/usr/local/cuda-10.1/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
 export PATH_TO_PB=~/tensorFlowObjectDetection/protoc-3.12.4-linux-x86_64/bin
+
+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
